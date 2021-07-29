@@ -8,10 +8,10 @@ A gitHub token is required for use, which is used for authentication. The [websi
 
 | Aspect              | Example                                                                                                                        | 
 |:------------------- |:------------------------------------------------------------------------------------------------------------------------------ |
-| Overview Example    | [Overview_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas/blob/main/notebooks/Overview_Example.ipynb)          | 
-| Extract Commits & Edits     | [Version_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas/blob/main/notebooks/Version_Example.ipynb)            |    
-| Check Workflows, download artifacts | [Workflow_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas/blob/main/notebooks/Workflow_Example.ipynb)          |  
-| Evaluate Issue history              | [Issue_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas/blob/main/notebooks/Issues_Example.ipynb)               |             
-| Get Pull-Request overview       | [Pull_Requests_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas/blob/main/notebooks/Pull_Requests_Example.ipynb)|             
+| Overview Example    | [Overview_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas_notebooks/blob/main/notebooks/Overview_Example.ipynb)          | 
+| Extract Commits & Edits     | [Version_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas_notebooks/blob/main/notebooks/Version_Example.ipynb)            |    
+| Check Workflows, download artifacts | [Workflow_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas_notebooks/blob/main/notebooks/Workflow_Example.ipynb)          |  
+| Evaluate Issue history              | [Issue_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas_notebooks/blob/main/notebooks/Issues_Example.ipynb)               |             
+| Get Pull-Request overview       | [Pull_Requests_Example.ipynb](https://github.com/TUBAF-IFI-DiPiT/github2pandas_notebooks/blob/main/notebooks/Pull_Requests_Example.ipynb)|             
 
 The documentation of the module is available at https://github2pandas.readthedocs.io/.
