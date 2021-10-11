@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 github2pandas = "*"
+jupyter = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
