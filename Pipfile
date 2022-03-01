@@ -4,8 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-github2pandas = {ref = "github2pandas-v2.0.0", git = "https://github.com/TUBAF-IFI-DiPiT/github2pandas.git"}
+github2pandas = {ref = "github2pandas-v2.0.0", git = "https://github.com/TUBAF-IFI-DiPiT/github2pandas.git", editable = true}
 notebook = "*"
+matplotlib = "*"
 
 [dev-packages]
 
